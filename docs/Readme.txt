@@ -1,6 +1,2 @@
-Thanks for downloading this template!
+Site is live at https://maleeshat.github.io/Portfolio/
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
